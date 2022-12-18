@@ -1,0 +1,11 @@
+from pushbullet import Pushbullet
+import datetime
+
+API_KEY = "API KEY HERE"
+current_time = datetime.datetime.now()
+
+text = "https://pelaa.gigantti.fi/joulukalenteri-luukku" + str(current_time.day)
+
+pb = Pushbullet(API_KEY)
+push = pb.push_note("Gigantti joulukalenteri", text)
+
