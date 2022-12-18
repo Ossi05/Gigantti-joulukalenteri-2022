@@ -5,7 +5,7 @@ Lähettää joka päivä ilmoituksen Gigantin joulukalenterista ja muuttaa luuku
 esim. https://pelaa.gigantti.fi/joulukalenteri-luukku12. Luukku12 muuttuu seuraavana päivänä luukku13:sta
 
 # Asennus
-Videolla näkyy miten saat Pushbullet api-avaimen ja miten ajastat viestin käyttämällä Pythonanywhere:ssä
+Videolla näkyy miten saat Pushbullet api-avaimen ja miten ajastat koodin Pythonanywhere:ssä
 
 https://www.youtube.com/watch?v=tbzPcKRZlHg&list=WL&index=5
 
